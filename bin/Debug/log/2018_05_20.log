@@ -1,0 +1,60 @@
+Date = 2018-05-20 20:39:25 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = Object reference not set to an instance of an object.
+Date = 2018-05-20 20:40:32 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 10 | Message = Object reference not set to an instance of an object.
+Date = 2018-05-20 20:40:51 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 10 | Message = Object reference not set to an instance of an object.
+Date = 2018-05-20 20:41:52 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 10 | Message = Object reference not set to an instance of an object.
+Date = 2018-05-20 20:46:47 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = Object reference not set to an instance of an object.
+   at ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation..ctor()    at ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation.GetInstance()    at ICAN.FarzinSDK.WebServices.Proxy.Authentication..ctor()    at SDKWrapper.FarzinMethods.Insert(List`1 DocsStructure, String UserName, String UserHashPassword) in C:\Users\MK\Documents\Visual Studio 2015\Projects\eArchive\SDKWrapper\FarzinMethods.cs:line 34
+Date = 2018-05-20 20:49:03 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = Object reference not set to an instance of an object.\n
+
+
+at
+ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation..ctor() 
+
+
+at
+ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation.GetInstance() 
+
+
+at
+ICAN.FarzinSDK.WebServices.Proxy.Authentication..ctor() 
+
+
+at
+SDKWrapper.FarzinMethods.Insert(List`1
+DocsStructure,
+String
+UserName,
+String
+UserHashPassword)
+in
+C:\Users\MK\Documents\Visual
+Studio
+2015\Projects\eArchive\SDKWrapper\FarzinMethods.cs:line
+34
+Date = 2018-05-20 20:50:16 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = Object reference not set to an instance of an object. | |||at|ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation..ctor() |||at|ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation.GetInstance() |||at|ICAN.FarzinSDK.WebServices.Proxy.Authentication..ctor() |||at|SDKWrapper.FarzinMethods.Insert(List`1|DocsStructure,|String|UserName,|String|UserHashPassword)|in|C:\Users\MK\Documents\Visual|Studio|2015\Projects\eArchive\SDKWrapper\FarzinMethods.cs:line|34
+Date = 2018-05-20 20:51:08 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 10 | Message = Object reference not set to an instance of an object. |    at ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation..ctor()    at ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation.GetInstance()    at ICAN.FarzinSDK.WebServices.Proxy.Authentication..ctor()    at SDKWrapper.FarzinMethods.Insert(List`1 DocsStructure, String UserName, String UserHashPassword) in C:\Users\MK\Documents\Visual Studio 2015\Projects\eArchive\SDKWrapper\FarzinMethods.cs:line 34
+Date = 2018-05-20 23:03:55 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 10 | Message = Object reference not set to an instance of an object.   at ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation..ctor()    at ICAN.FarzinSDK.WebServices.Proxy.ServiceLocation.GetInstance()    at ICAN.FarzinSDK.WebServices.Proxy.Authentication..ctor()    at SDKWrapper.FarzinMethods.Insert(List`1 DocsStructure, String UserName, String UserHashPassword) in C:\Users\MK\Documents\Visual Studio 2015\Projects\eArchive\SDKWrapper\FarzinMethods.cs:line 34
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 2 <Result>
+	<Document uniqId ="" entityTypeCode="924" entityCode="1"  EntityNumber="1"  />
+</Result>
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 3 <Result>
+	<Document uniqId ="" entityTypeCode="924" entityCode="2"  EntityNumber="2"  />
+</Result>
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 4 <Result errorMessage="Incorrect syntax near ','." />
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 5 <Result>
+	<Document uniqId ="" entityTypeCode="924" entityCode="3"  EntityNumber="3"  />
+</Result>
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 6 <Result>
+	<Document uniqId ="" entityTypeCode="924" entityCode="4"  EntityNumber="4"  />
+</Result>
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 7 <Result errorMessage="Incorrect syntax near ','." />
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 8 <Result>
+	<Document uniqId ="" entityTypeCode="924" entityCode="5"  EntityNumber="5"  />
+</Result>
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 9 <Result errorMessage="Invalid column name 'A'." />
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 10 <Result errorMessage="Cannot insert duplicate key row in object 'dbo.Entity_AgricultureArchive' with unique index 'IX_ID'. The duplicate key value is (1082).
+The statement has been terminated." />
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 11 <Result errorMessage="Invalid column name 'B'." />
+Date = 2018-05-20 23:05:54 | Severity = Info | Source = eArchive.Main.button1_Click | ThreadId = 9 | Message = 12 <Result>
+	<Document uniqId ="" entityTypeCode="924" entityCode="7"  EntityNumber="6"  />
+</Result>

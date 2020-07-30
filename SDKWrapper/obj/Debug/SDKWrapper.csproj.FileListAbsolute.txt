@@ -1,0 +1,16 @@
+C:\Users\MK\documents\visual studio 2015\Projects\SDKWrapper\bin\Debug\SDKWrapper.dll
+C:\Users\MK\documents\visual studio 2015\Projects\SDKWrapper\bin\Debug\SDKWrapper.pdb
+C:\Users\MK\documents\visual studio 2015\Projects\SDKWrapper\bin\Debug\ICAN.FarzinSDK.WebServices.Proxy.dll
+C:\Users\MK\documents\visual studio 2015\Projects\SDKWrapper\obj\Debug\SDKWrapper.csprojResolveAssemblyReference.cache
+C:\Users\MK\documents\visual studio 2015\Projects\SDKWrapper\obj\Debug\SDKWrapper.dll
+C:\Users\MK\documents\visual studio 2015\Projects\SDKWrapper\obj\Debug\SDKWrapper.pdb
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Archive\SDKWrapper\bin\Debug\SDKWrapper.dll
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Archive\SDKWrapper\bin\Debug\SDKWrapper.pdb
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Archive\SDKWrapper\obj\Debug\SDKWrapper.dll
+C:\Users\MK\Documents\Visual Studio 2015\Projects\Archive\SDKWrapper\obj\Debug\SDKWrapper.pdb
+C:\Users\MK\documents\visual studio 2015\Projects\Archive\SDKWrapper\obj\Debug\SDKWrapper.csprojResolveAssemblyReference.cache
+C:\Users\MK\Documents\Visual Studio 2015\Projects\eArchive\SDKWrapper\bin\Debug\SDKWrapper.dll
+C:\Users\MK\Documents\Visual Studio 2015\Projects\eArchive\SDKWrapper\bin\Debug\SDKWrapper.pdb
+C:\Users\MK\Documents\Visual Studio 2015\Projects\eArchive\SDKWrapper\obj\Debug\SDKWrapper.dll
+C:\Users\MK\Documents\Visual Studio 2015\Projects\eArchive\SDKWrapper\obj\Debug\SDKWrapper.pdb
+C:\Users\MK\Documents\Visual Studio 2015\Projects\eArchive\SDKWrapper\obj\Debug\SDKWrapper.csprojResolveAssemblyReference.cache
